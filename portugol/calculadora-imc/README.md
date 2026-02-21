@@ -22,7 +22,7 @@ Ao final, exibe o resultado junto com os dados fornecidos.
 
 ---
 
-## :tools: Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - Portugol
 - Visualg
